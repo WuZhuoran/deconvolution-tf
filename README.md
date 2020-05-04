@@ -1,12 +1,12 @@
 # Network Deconvolution - TF Version
-Tensorflow Version of [Network Deconvolution Code](https://github.com/yechengxi/deconvolution) from paper [Network Deconvolution](https://openreview.net/forum?id=rkeu30EtvS)
+Tensorflow Version of [Network Deconvolution Pytorch Code](https://github.com/yechengxi/deconvolution) from paper [Network Deconvolution](https://openreview.net/forum?id=rkeu30EtvS)
 
 ## Update
 
-TODO - Test benchmark running in TF version.    
-TODO - Add supported Model and Dataset.    
-TODO - Add unit test for deconv.    
-2020-05-03 - Add [models/deconv_tf.py](models/deconv_tf.py) and convert to tf.
+ - [ ] Test benchmark running in TF version.    
+ - [ ] Add supported Model and Dataset.    
+ - [ ] Add unit test for deconv.    
+ - [x] 2020-05-03 - Add [models/deconv_tf.py](models/deconv_tf.py) and convert to tf.
 
 ## Get Started
 
